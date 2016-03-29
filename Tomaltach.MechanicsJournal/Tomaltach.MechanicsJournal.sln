@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tomaltach.MechanicsJournal.Business", "Tomaltach.MechanicsJournal.Business\Tomaltach.MechanicsJournal.Business.csproj", "{5C63EE2A-D8B5-4821-9DB0-C33E0C598630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tomaltach.MechanicsJournal.Entity", "Tomaltach.MechanicsJournal.Entity\Tomaltach.MechanicsJournal.Entity.csproj", "{9995F6A3-625D-447D-9DF1-DEE1CF2CFF4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tomaltach.MechanicsJournal.WebUI", "Tomaltach.MechanicsJournal.WebUI\Tomaltach.MechanicsJournal.WebUI.csproj", "{816B536D-5B78-4094-B8C8-AA5708907C73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tomaltach.MechanicsJournal.API", "Tomaltach.MechanicsJournal.API\Tomaltach.MechanicsJournal.API.csproj", "{A496A70A-25B5-4B2C-BBB7-667186842281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C63EE2A-D8B5-4821-9DB0-C33E0C598630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C63EE2A-D8B5-4821-9DB0-C33E0C598630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C63EE2A-D8B5-4821-9DB0-C33E0C598630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C63EE2A-D8B5-4821-9DB0-C33E0C598630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9995F6A3-625D-447D-9DF1-DEE1CF2CFF4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9995F6A3-625D-447D-9DF1-DEE1CF2CFF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9995F6A3-625D-447D-9DF1-DEE1CF2CFF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9995F6A3-625D-447D-9DF1-DEE1CF2CFF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{816B536D-5B78-4094-B8C8-AA5708907C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816B536D-5B78-4094-B8C8-AA5708907C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816B536D-5B78-4094-B8C8-AA5708907C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816B536D-5B78-4094-B8C8-AA5708907C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A496A70A-25B5-4B2C-BBB7-667186842281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A496A70A-25B5-4B2C-BBB7-667186842281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A496A70A-25B5-4B2C-BBB7-667186842281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A496A70A-25B5-4B2C-BBB7-667186842281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
